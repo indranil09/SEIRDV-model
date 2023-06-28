@@ -1,4 +1,7 @@
-# SEIRDV model code
+# Incorporating Interventions to an Extended SEIRD Model with Vaccination: Application to COVID-19 in Qatar
+DOI: https://doi.org/10.6339/23-JDS1105
+
+## SEIRDV model code
 
 To run the main file "MCMCV1wCpp.R", you need to source the attached files called "SEIRDV6c.R" and "SEIRDV6.cpp" and also load "StartStepValuesM1V5E3.RData". Once everything is done correctly, you should be able to run this code successfully. Note that "SEIRDV6.cpp" is written in C++ in order to speed up the simulation time. 
 
@@ -10,6 +13,8 @@ The datasets used for both the model analysis and model validation are attached.
 
 
 In addition, HTML file has been added for easy visualization of the plots in both the main paper and supplemetary material. 
+
+
 
 
 
